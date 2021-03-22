@@ -5,6 +5,7 @@ Assignment 03
 
 Files submitted:
 assignment3.sqlite
+assignment3.sql
 assignment3.py
 students.csv
 README.txt
